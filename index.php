@@ -1,13 +1,13 @@
 <?php
-require 'LightableInterface.php';
-require_once './Vehicle.php';
-require_once './HighWay.php';
-require_once './MotorWay.php';
-require_once './PedestrianWay.php';
-require_once './ResidentialWay.php';
-require 'Bike.php';
-require 'Skateboard.php';
-require 'Car.php';
+// require 'LightableInterface.php';
+// require_once './Vehicle.php';
+// require_once './HighWay.php';
+// require_once './MotorWay.php';
+// require_once './PedestrianWay.php';
+// require_once './ResidentialWay.php';
+// require 'Bike.php';
+// require 'Skateboard.php';
+// require 'Car.php';
 require 'Speedometer.php';
 
 
